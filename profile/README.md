@@ -16,7 +16,6 @@ And many more features baking in the oven!
 Note: v.1.0 is currently available as a mobile-only web application.
 
 ## Contributing
-We are accepting Technical and Non-Technical Contributions.
 
 ### Technical Contributions
 We welcome contributions from the community! If you're interested in contributing, please follow these steps:
