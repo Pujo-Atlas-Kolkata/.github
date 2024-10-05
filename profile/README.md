@@ -26,7 +26,7 @@ We welcome contributions from the community! If you're interested in contributin
 5. Submit a pull request with a detailed description of your changes.
 
 ### Testing and Feedback
-Test out the [Published]((https://atlas.ourkolkata.in/)) and/or Beta Versions of our releases and provide us with [feedback]((https://forms.gle/wixeAAM4j2J8HCSN9)) 
+Test out the [Published](https://atlas.ourkolkata.in/) and/or Beta Versions of our releases and provide us with [feedback](https://forms.gle/wixeAAM4j2J8HCSN9) 
 
 ### Non-Technical Contributions
 Help us with data collection on the various puja pandals, Police Booths/Helpdesks, Pharmacies, Public Toilets, and water stations. You can fill in the details as per the steps mentioned in this [Data Contribution Form](https://forms.gle/n394CrQpaHzS36hF6).
@@ -35,5 +35,5 @@ Help us with data collection on the various puja pandals, Police Booths/Helpdesk
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries or suggestions, feel free to reach out to us at [r/Kolkata](https://www.reddit.com/r/kolkata/) on Reddit or our [discord server]((https://discord.gg/89JxPQqCq9)).
+For any queries or suggestions, feel free to reach out to us at [r/Kolkata](https://www.reddit.com/r/kolkata/) on Reddit or our [discord server](https://discord.gg/89JxPQqCq9).
 Join us in making Pujo Atlas the go-to app for a memorable Durga Puja experience in Kolkata!
