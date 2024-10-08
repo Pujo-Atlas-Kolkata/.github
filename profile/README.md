@@ -6,7 +6,7 @@ This open-source project aims to provide a comprehensive and user-friendly app t
 
 ### [VERSION 1.1](https://atlas.ourkolkata.in/) is LIVE!
 
-##What's New in v1.1:
+## What's New in v1.1:
 - **Nearest Metro on Pandal Cards**: Now you can view the nearest metro stations and their distance directly on the pandal cards in the Home tab.
 - **Metro Info on Pandal Map**: Check the nearest metro station and its distance when you tap on a pandal's location marker in the Pandals tab.
 - **Trending Pandals Algorithm Improvement**: We’ve fine-tuned the algorithm to give more weight to recent events, ensuring the list stays fresh and relevant.
