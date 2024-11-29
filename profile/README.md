@@ -5,7 +5,7 @@ Welcome to **Pujo Atlas** - your ultimate guide for Pandal Hopping during Durga 
 This open-source project aims to provide a comprehensive and user-friendly app that lists all the Durga Pujas happening around Kolkata and offers a host of features to make your pandal hopping experience seamless and enjoyable.
 
 ## Recap
-Here's how we did this year.
+Here's how we did this year —
 <p align="left">
   <img src="https://github.com/user-attachments/assets/c53078d0-a3b0-447f-bfa3-997938797896" alt="Stats 2024" width="500" />
 </p>
@@ -21,10 +21,10 @@ We welcome contributions from the community! If you're interested in contributin
 5. Submit a pull request with a detailed description of your changes.
 
 ### Testing and Feedback
-Test out the [Published](https://atlas.ourkolkata.in/) and/or Beta Versions of our releases and provide us with [feedback](https://forms.gle/wixeAAM4j2J8HCSN9) 
+Test out the [published](https://atlas.ourkolkata.in/) and/or beta Versions of our releases, and provide us with [feedback](https://forms.gle/wixeAAM4j2J8HCSN9).
 
 ### Non-Technical Contributions
-Help us with data collection on the various puja pandals, Police Booths/Helpdesks, Pharmacies, Public Toilets, and water stations. You can fill in the details as per the steps mentioned in this [Data Contribution Form](https://forms.gle/n394CrQpaHzS36hF6).
+Help us with data collection on the various Puja Pandals, Police Booths/Helpdesks, Pharmacies, Public Toilets, and water stations. You can fill in the details as per the steps mentioned in this [Data Contribution Form](https://forms.gle/n394CrQpaHzS36hF6).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/blob/main/LICENSE) file for details.
