@@ -1,6 +1,6 @@
 # Pujo Atlas
 
-### [VERSION 1.1](https://atlas.ourkolkata.in/) is LIVE!
+### [v1.1](https://atlas.ourkolkata.in/) is LIVE!
 
 ## What's New in v1.1:
 - **Nearest Metro on Pandal Cards**: Now you can view the nearest metro stations and their distance directly on the pandal cards in the Home tab.
@@ -17,6 +17,6 @@
 3. **Interactive Pujo Map**: Navigate the city effortlessly.
 4. **Emergency Helpline Numbers**: Access important contacts easily.
 
-And many more features baking in the oven!
+...and many more features baking in the oven!
 
-Note: v.1.1 is currently available as a mobile-only web application.
+**Note**: [v1.1](https://atlas.ourkolkata.in/) is currently available as a mobile-only web application.
