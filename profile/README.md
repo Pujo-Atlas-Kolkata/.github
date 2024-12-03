@@ -10,6 +10,10 @@ Here's how we did this year —
   <img src="https://github.com/user-attachments/assets/c53078d0-a3b0-447f-bfa3-997938797896" alt="Stats 2024" width="500" />
 </p>
 
+## Changelog
+
+For a detailed list of changes, please visit our [Changelog](https://github.com/Pujo-Atlas-Kolkata/.github/blob/main/profile/CHANGELOG.md).
+
 ## Contributing
 
 ### Technical Contributions
