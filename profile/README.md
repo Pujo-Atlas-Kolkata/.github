@@ -5,7 +5,7 @@ Welcome to **Pujo Atlas** - your ultimate guide for Pandal Hopping during Durga 
 This open-source project aims to provide a comprehensive and user-friendly app that lists all the Durga Pujas happening around Kolkata and offers a host of features to make your pandal hopping experience seamless and enjoyable.
 
 ## Recap
-Here's how we did this year —
+Here's how we did last year —
 <p align="left">
   <img src="https://github.com/user-attachments/assets/c53078d0-a3b0-447f-bfa3-997938797896" alt="Stats 2024" width="500" />
 </p>
