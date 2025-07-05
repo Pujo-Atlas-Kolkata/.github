@@ -31,7 +31,7 @@ Test out the [published](https://atlas.ourkolkata.in/) and/or beta Versions of o
 Help us with data collection on the various Puja Pandals, Police Booths/Helpdesks, Pharmacies, Public Toilets, and water stations. You can fill in the details as per the steps mentioned in this [Data Contribution Form](https://forms.gle/n394CrQpaHzS36hF6).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/blob/main/LICENSE) file for details.
+This project is licensed under the GPL v3 - see the [LICENSE](https://github.com/Pujo-Atlas-Kolkata/PujoAtlasKol-Web/blob/main/LICENSE) file for details.
 
 ## Contact
 For any queries or suggestions, feel free to reach out to us at [r/Kolkata](https://www.reddit.com/r/kolkata/) on Reddit or our [discord server](https://discord.gg/89JxPQqCq9).
